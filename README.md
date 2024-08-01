@@ -96,7 +96,8 @@ Testing:
 
 
 Deployment :
-
+deployed link
+https://codecrackersteam.github.io/CodeClix/
 
 
 Bugs
@@ -104,3 +105,4 @@ Bugs
 
 
 Credit:
+
