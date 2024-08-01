@@ -36,23 +36,15 @@ Wireframe & Initial Design:
 
 Home Page
 
-![Project Screenshot](assets/imagess/image.png)
 
 Movie Detail Page
 
-![Project Screenshot](assets/imagess/image%20(1).png)
 
 Login Page
 
-![Project Screenshot](assets/imagess/image%20(2).png)
 
 Sign Up Page
 
-![Project Screenshot](assets/imagess/image%20(3).png)
-
-Team page
-
-![Project Screenshot](assets/imagess/image%20(4).png)
 
 Agile:
 
@@ -97,13 +89,12 @@ CSS
 
 Responsiveness:
 
-![Project Screenshot](assets/imagess/Screenshot%202024-08-01%20at%2012.47.16.png)
-
 Testing:
 
 
 Deployment :
-
+deployed link
+https://codecrackersteam.github.io/CodeClix/
 
 
 Bugs
@@ -111,3 +102,4 @@ Bugs
 
 
 Credit:
+
