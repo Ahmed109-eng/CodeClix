@@ -35,16 +35,17 @@ If checked, users remain logged in on their personal device.
 Wireframe & Initial Design:
 
 Home Page
-
+![Alt text](assets/imagess/image.png)
 
 Movie Detail Page
-
+![Alt text](assets/imagess/image%20(1).png)
 
 Login Page
-
+![Alt text](assets/imagess/image%20(2).png)
 
 Sign Up Page
 
+![Alt text](assets/imagess/image%20(3).png)
 
 Agile:
 
@@ -88,6 +89,8 @@ CSS
 
 
 Responsiveness:
+
+![Alt text](assets/imagess/responsive.png)
 
 Testing:
 
